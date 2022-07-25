@@ -1,0 +1,15 @@
+ INFO	[2022-04-15 16:33:59,246][main] (UserPageTest.java:44)
+	Enter user`s page
+
+ INFO	[2022-04-15 16:33:59,536][main] (UserPageTest.java:51)
+	Click on stations dropdown
+
+ INFO	[2022-04-15 16:33:59,776][main] (UserPageTest.java:58)
+	Select station
+
+ INFO	[2022-04-15 16:34:00,014][main] (UserPageTest.java:65)
+	Click on users dropdown
+
+ INFO	[2022-04-15 16:34:00,251][main] (UserPageTest.java:72)
+	Select user
+
